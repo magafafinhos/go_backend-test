@@ -1,1 +1,9 @@
-testando isso é muito paia, tentando conectar com o git
+package main 
+
+import "fmt"
+
+func main(){
+
+	fmt.Println("Hello golang!")
+
+}
